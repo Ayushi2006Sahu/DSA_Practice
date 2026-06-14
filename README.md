@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
