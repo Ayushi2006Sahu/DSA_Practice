@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 ## Hash Table
@@ -23,6 +24,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -55,4 +58,8 @@
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
