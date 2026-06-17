@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -71,8 +72,13 @@
 | [0039-combination-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
