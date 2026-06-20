@@ -15,6 +15,7 @@
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 ## Hash Table
 |  |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
