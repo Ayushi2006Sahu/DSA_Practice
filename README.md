@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0039-combination-sum) |
@@ -103,5 +104,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
