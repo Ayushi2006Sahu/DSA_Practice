@@ -18,6 +18,7 @@
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
