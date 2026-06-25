@@ -17,6 +17,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
@@ -29,6 +30,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 ## Matrix
 |  |
@@ -55,10 +57,12 @@
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
