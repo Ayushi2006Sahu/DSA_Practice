@@ -55,6 +55,7 @@
 | [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0020-valid-parentheses](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
+| [1143-longest-common-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
