@@ -31,6 +31,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 ## Matrix
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
@@ -166,4 +169,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
