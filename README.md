@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
