@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0039-combination-sum) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
@@ -138,6 +140,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
 ## Memoization
 |  |
