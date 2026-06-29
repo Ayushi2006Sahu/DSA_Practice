@@ -50,6 +50,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -129,6 +130,7 @@
 | [0020-valid-parentheses](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
