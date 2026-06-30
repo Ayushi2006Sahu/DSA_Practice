@@ -17,6 +17,7 @@
 | [0090-subsets-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,5 +214,10 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
