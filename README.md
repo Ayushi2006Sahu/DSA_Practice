@@ -263,6 +263,7 @@
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0610-triangle-judgement) |
 | [1280-students-and-examinations](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1280-students-and-examinations) |
 ## Quicksort
 |  |
