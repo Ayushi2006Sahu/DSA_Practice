@@ -264,6 +264,7 @@
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0610-triangle-judgement) |
+| [1164-product-price-at-a-given-date](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1164-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1280-students-and-examinations) |
 ## Quicksort
 |  |
