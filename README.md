@@ -41,6 +41,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
@@ -150,6 +152,7 @@
 | [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1143-longest-common-subsequence) |
