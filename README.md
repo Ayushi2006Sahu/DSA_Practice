@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0994-rotting-oranges) |
@@ -44,6 +45,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 ## Matrix
 |  |
@@ -199,6 +201,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 ## Queue
 |  |
