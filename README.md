@@ -41,6 +41,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -63,6 +64,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
 ## Recursion
@@ -276,4 +279,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
