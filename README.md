@@ -96,11 +96,13 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
