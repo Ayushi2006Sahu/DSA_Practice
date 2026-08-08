@@ -248,4 +248,8 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
