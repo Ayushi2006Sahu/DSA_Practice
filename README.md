@@ -68,6 +68,7 @@
 | [0075-sort-colors](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
@@ -88,6 +89,7 @@
 | [0020-valid-parentheses](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
@@ -106,6 +108,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
