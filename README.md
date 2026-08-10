@@ -302,4 +302,8 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
