@@ -27,6 +27,7 @@
 | [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0994-rotting-oranges) |
@@ -189,6 +190,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
