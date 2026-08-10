@@ -91,6 +91,7 @@
 | [0155-min-stack](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -106,6 +107,7 @@
 | [0141-linked-list-cycle](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -292,4 +294,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
