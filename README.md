@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0040-combination-sum-ii) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0704-binary-search) |
