@@ -20,6 +20,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0239-sliding-window-maximum) |
@@ -150,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Backtracking
