@@ -38,6 +38,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 | [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
