@@ -33,6 +33,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0994-rotting-oranges) |
@@ -205,6 +206,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 ## Queue
 |  |
@@ -262,6 +265,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
 ## Monotonic Queue
 |  |
 | ------- |
