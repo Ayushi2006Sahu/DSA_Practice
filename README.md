@@ -336,6 +336,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
 ## Bracket Sequences
 |  |
