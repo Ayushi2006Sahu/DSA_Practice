@@ -1,0 +1,9 @@
+# Write your MySQL query statement below
+select sell_date, count(distinct product)as num_sold,
+group_concat(distinct product order by product ASC separator ',')as products
+from Activities 
+group by sell_date 
+order by sell_date asc
+
+-- The GROUP_CONCAT function in SQL combines data from multiple rows into a single string.
+-- SELECT group_column,   GROUP_CONCAT([DISTINCT] expression [ORDER BY clause] [SEPARATOR 'str'])
