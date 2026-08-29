@@ -35,6 +35,7 @@
 | [0704-binary-search](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0733-flood-fill) |
+| [0905-sort-array-by-parity](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
@@ -85,6 +86,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Heap (Priority Queue)
