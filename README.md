@@ -38,6 +38,7 @@
 | [0905-sort-array-by-parity](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0994-rotting-oranges) |
+| [1572-matrix-diagonal-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -70,6 +71,7 @@
 | [0200-number-of-islands](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0994-rotting-oranges) |
+| [1572-matrix-diagonal-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
