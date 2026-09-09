@@ -86,6 +86,7 @@
 | [0143-reorder-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0905-sort-array-by-parity) |
@@ -192,6 +193,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 ## Trie
