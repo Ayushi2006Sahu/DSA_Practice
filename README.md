@@ -28,6 +28,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -57,6 +58,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -88,6 +90,7 @@
 | [0143-reorder-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -148,6 +151,7 @@
 | [0242-valid-anagram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0905-sort-array-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2402-meeting-rooms-iii) |
@@ -216,6 +220,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
