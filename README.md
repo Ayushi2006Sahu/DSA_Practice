@@ -16,6 +16,7 @@
 | [0040-combination-sum-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0046-permutations) |
+| [0064-minimum-path-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0075-sort-colors) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0200-number-of-islands) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
