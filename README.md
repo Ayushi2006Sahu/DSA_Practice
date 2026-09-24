@@ -47,6 +47,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,6 +361,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0445-add-two-numbers-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0507-perfect-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bracket Sequences
 |  |
 | ------- |
