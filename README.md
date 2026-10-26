@@ -377,4 +377,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0133-clone-graph) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
