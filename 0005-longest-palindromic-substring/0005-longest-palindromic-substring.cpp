@@ -18,7 +18,7 @@ int expandArCentre(string s,int left,int right){
             if(len>maxLen){
                 maxLen = len ;
                 strt = i-(len-1)/2;
-            }
+            } 
         }
         return s.substr(strt,maxLen);
     }
