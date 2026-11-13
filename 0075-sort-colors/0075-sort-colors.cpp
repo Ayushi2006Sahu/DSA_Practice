@@ -13,12 +13,9 @@ public:
             }
             else if(nums[j]==2){
                 swap(nums[j],nums[k]);
-                 k--;
+                k--;
             }
-            else{
-               
-                j++;
-            }
+            else j++;
         }
     }
 };
