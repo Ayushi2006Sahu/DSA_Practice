@@ -16,6 +16,7 @@
 | [0040-combination-sum-ii](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
@@ -356,6 +358,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayushi2006Sahu/DSA_Practice/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
